@@ -1,0 +1,3 @@
+Primera nota: Estudiar Python todos los días.
+Segunda nota: Practicar la escritura de código.
+Tercera nota: Revisar ejemplos y documentación.
