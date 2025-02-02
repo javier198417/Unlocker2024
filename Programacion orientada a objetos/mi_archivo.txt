@@ -1,0 +1,2 @@
+Hola, este es el primer texto.
+Este es otro texto que se agrega al archivo.
